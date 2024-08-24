@@ -14,6 +14,7 @@ export const LINKS = {
   instagram: 'https://www.instagram.com/kabirosky/',
   youtube: 'https://www.youtube.com/@Kabirosky',
   discord: 'https://discordapp.com/users/163300027618295808',
+  cal:'https://cal.com/kabirosky',
 }
 
 // Global
